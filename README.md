@@ -22,4 +22,7 @@ Everything here is released under the [MIT License](LICENSE).
 Use it. Break it. Build on it.  
 Just cite the ideas, credit the source, and share what you learn.
 
+If interested please find the pre-print here:
+https://arxiv.org/abs/2503.20096
+
 — *Math belongs to everyone.*
