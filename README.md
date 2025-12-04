@@ -18,7 +18,7 @@ This space is grounded in the following tenets:
 
 The **GRT** is a new framework for refining and decomposing functions using geometry-first logic. It aims to make nonlinear PDEs, real-time simulations, and adaptive transforms more intuitive, stable, and computationally efficient. This work is under active development—check back periodically for updates.
 
-Everything here is released under the [MIT License](LICENSE).  
+this repository is released under the [MIT License](LICENSE).  
 Use it. Break it. Build on it.  
 Just cite the ideas, credit the source, and share what you learn.
 
