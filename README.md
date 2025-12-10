@@ -21,6 +21,7 @@ The **GRT** is a new framework for refining and decomposing functions using geom
 this repository is released under the [MIT License](LICENSE).  
 Use it. Break it. Build on it.  
 Just cite the ideas, credit the source, and share what you learn.
+The LEAN repository is under the apache 2.0 license and should not be confused with the MIT license for preprints listed here.
 
 📄 **Preprint:** [Geometric Refinement Transform (arXiv:2503.20096)](https://arxiv.org/abs/2503.20096)
 
